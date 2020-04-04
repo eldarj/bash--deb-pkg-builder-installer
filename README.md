@@ -16,7 +16,8 @@ A directory with the name `somescript` will be created, in which you'll find all
 
 Run your newly installed script with 
 ```
-somescript```
+somescript
+```
 
 Sample of manually installing your package
 ```
