@@ -14,7 +14,7 @@ Installer will create a debian package from your `somescript.sh` and install it 
 A directory with the name `somescript` will be created, in which you'll find all the source, tar archives and deb package.
 
 
-Run your newly installed script with 
+Run your newly installed script
 ```
 somescript
 ```
