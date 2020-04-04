@@ -1,7 +1,7 @@
 #!/bin/bash
 # Installer :: (C) Eldar 2020
 # Creates .deb package from .sh script and installs it
-# Note: run me as sudo!
+# Usage: ./installer somescript.sh
 
 pkgname=
 pkgdir=
