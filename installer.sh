@@ -6,6 +6,9 @@
 pkgname=
 pkgdir=
 
+echo "Installing required builder packages..."
+sudo apt install devscripts build-essential lintian
+
 if [ $# -gt 1 ]; then
     echo "ERROR: Multiple arguments received."
     echo "USAGE: installer myscript.sh"
